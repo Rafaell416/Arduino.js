@@ -1,0 +1,16 @@
+{
+  "name": "LED-Arduino",
+  "version": "0.1.0",
+  "description": "leds with arduino",
+  "main": "led.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "led",
+    "arduino",
+    "javascript"
+  ],
+  "author": "Rafael Villarreal",
+  "license": "MIT"
+}
